@@ -1,0 +1,667 @@
+{
+	"game": "PokeMMO",
+	"tiers": {
+		"OU": {
+			"pokemon": [
+				{
+					"id": 591,
+					"name": "Amoonguss",
+					"types": ["Grass", "Poison"],
+					"abilities": ["Effect Spore", "Regenerator"],
+					"base_stats": {
+						"hp": 114,
+						"attack": 85,
+						"defense": 70,
+						"sp_attack": 85,
+						"sp_defense": 80,
+						"speed": 30
+					},
+					"bst": 464
+				},
+				{
+					"id": 286,
+					"name": "Breloom",
+					"types": ["Grass", "Fighting"],
+					"abilities": ["Effect Spore", "Poison Heal", "Technician"],
+					"base_stats": {
+						"hp": 60,
+						"attack": 130,
+						"defense": 80,
+						"sp_attack": 60,
+						"sp_defense": 60,
+						"speed": 70
+					},
+					"bst": 460
+				},
+				{
+					"id": 437,
+					"name": "Bronzong",
+					"types": ["Steel", "Psychic"],
+					"abilities": ["Levitate", "Heatproof", "Heavy Metal"],
+					"base_stats": {
+						"hp": 67,
+						"attack": 89,
+						"defense": 116,
+						"sp_attack": 79,
+						"sp_defense": 116,
+						"speed": 33
+					},
+					"bst": 500
+				},
+				{
+					"id": 609,
+					"name": "Chandelure",
+					"types": ["Ghost", "Fire"],
+					"abilities": ["Flash Fire", "Flame Body", "Infiltrator"],
+					"base_stats": {
+						"hp": 60,
+						"attack": 55,
+						"defense": 90,
+						"sp_attack": 145,
+						"sp_defense": 90,
+						"speed": 80
+					},
+					"bst": 520
+				},
+				{
+					"id": 113,
+					"name": "Chansey",
+					"types": ["Normal"],
+					"abilities": ["Natural Cure", "Serene Grace", "Healer"],
+					"base_stats": {
+						"hp": 250,
+						"attack": 5,
+						"defense": 5,
+						"sp_attack": 35,
+						"sp_defense": 105,
+						"speed": 50
+					},
+					"bst": 450
+				},
+				{
+					"id": 534,
+					"name": "Conkeldurr",
+					"types": ["Fighting"],
+					"abilities": ["Guts", "Sheer Force", "Iron Fist"],
+					"base_stats": {
+						"hp": 105,
+						"attack": 140,
+						"defense": 95,
+						"sp_attack": 55,
+						"sp_defense": 65,
+						"speed": 45
+					},
+					"bst": 505
+				},
+				{
+					"id": 342,
+					"name": "Crawdaunt",
+					"types": ["Water", "Dark"],
+					"abilities": ["Hyper Cutter", "Shell Armor", "Adaptability"],
+					"base_stats": {
+						"hp": 63,
+						"attack": 120,
+						"defense": 85,
+						"sp_attack": 90,
+						"sp_defense": 55,
+						"speed": 55
+					},
+					"bst": 468
+				},
+				{
+					"id": 488,
+					"name": "Cresselia",
+					"types": ["Psychic"],
+					"abilities": ["Levitate"],
+					"base_stats": {
+						"hp": 120,
+						"attack": 70,
+						"defense": 110,
+						"sp_attack": 75,
+						"sp_defense": 120,
+						"speed": 85
+					},
+					"bst": 580
+				},
+				{
+					"id": 149,
+					"name": "Dragonite",
+					"types": ["Dragon", "Flying"],
+					"abilities": ["Inner Focus", "Multiscale"],
+					"base_stats": {
+						"hp": 91,
+						"attack": 134,
+						"defense": 95,
+						"sp_attack": 100,
+						"sp_defense": 100,
+						"speed": 80
+					},
+					"bst": 600
+				},
+				{
+					"id": 530,
+					"name": "Excadrill",
+					"types": ["Ground", "Steel"],
+					"abilities": ["Sand Rush", "Sand Force", "Mold Breaker"],
+					"base_stats": {
+						"hp": 110,
+						"attack": 135,
+						"defense": 60,
+						"sp_attack": 50,
+						"sp_defense": 65,
+						"speed": 88
+					},
+					"bst": 508
+				},
+				{
+					"id": 598,
+					"name": "Ferrothorn",
+					"types": ["Grass", "Steel"],
+					"abilities": ["Iron Barbs", "Anticipation"],
+					"base_stats": {
+						"hp": 74,
+						"attack": 94,
+						"defense": 131,
+						"sp_attack": 54,
+						"sp_defense": 116,
+						"speed": 20
+					},
+					"bst": 489
+				},
+				{
+					"id": 445,
+					"name": "Garchomp",
+					"types": ["Dragon", "Ground"],
+					"abilities": ["Sand Veil", "Rough Skin"],
+					"base_stats": {
+						"hp": 108,
+						"attack": 130,
+						"defense": 95,
+						"sp_attack": 80,
+						"sp_defense": 85,
+						"speed": 102
+					},
+					"bst": 600
+				},
+				{
+					"id": 94,
+					"name": "Gengar",
+					"types": ["Ghost", "Poison"],
+					"abilities": ["Cursed Body"],
+					"base_stats": {
+						"hp": 60,
+						"attack": 65,
+						"defense": 60,
+						"sp_attack": 130,
+						"sp_defense": 75,
+						"speed": 110
+					},
+					"bst": 500
+				},
+				{
+					"id": 472,
+					"name": "Gliscor",
+					"types": ["Ground", "Flying"],
+					"abilities": ["Hyper Cutter", "Sand Veil", "Poison Heal"],
+					"base_stats": {
+						"hp": 75,
+						"attack": 95,
+						"defense": 125,
+						"sp_attack": 45,
+						"sp_defense": 75,
+						"speed": 95
+					},
+					"bst": 510
+				},
+				{
+					"id": 130,
+					"name": "Gyarados",
+					"types": ["Water", "Flying"],
+					"abilities": ["Intimidate", "Moxie"],
+					"base_stats": {
+						"hp": 95,
+						"attack": 125,
+						"defense": 79,
+						"sp_attack": 60,
+						"sp_defense": 100,
+						"speed": 81
+					},
+					"bst": 540
+				},
+				{
+					"id": 485,
+					"name": "Heatran",
+					"types": ["Fire", "Steel"],
+					"abilities": ["Flash Fire", "Flame Body"],
+					"base_stats": {
+						"hp": 91,
+						"attack": 90,
+						"defense": 106,
+						"sp_attack": 130,
+						"sp_defense": 106,
+						"speed": 77
+					},
+					"bst": 600
+				},
+				{
+					"id": 635,
+					"name": "Hydreigon",
+					"types": ["Dark", "Dragon"],
+					"abilities": ["Levitate"],
+					"base_stats": {
+						"hp": 92,
+						"attack": 105,
+						"defense": 90,
+						"sp_attack": 125,
+						"sp_defense": 90,
+						"speed": 98
+					},
+					"bst": 600
+				},
+				{
+					"id": 392,
+					"name": "Infernape",
+					"types": ["Fire", "Fighting"],
+					"abilities": ["Blaze", "Iron Fist"],
+					"base_stats": {
+						"hp": 76,
+						"attack": 104,
+						"defense": 71,
+						"sp_attack": 104,
+						"sp_defense": 71,
+						"speed": 108
+					},
+					"bst": 534
+				},
+				{
+					"id": 593,
+					"name": "Jellicent",
+					"types": ["Water", "Ghost"],
+					"abilities": ["Water Absorb", "Cursed Body", "Damp"],
+					"base_stats": {
+						"hp": 100,
+						"attack": 60,
+						"defense": 70,
+						"sp_attack": 85,
+						"sp_defense": 105,
+						"speed": 60
+					},
+					"bst": 480
+				},
+				{
+					"id": 385,
+					"name": "Jirachi",
+					"types": ["Steel", "Psychic"],
+					"abilities": ["Serene Grace"],
+					"base_stats": {
+						"hp": 100,
+						"attack": 100,
+						"defense": 100,
+						"sp_attack": 100,
+						"sp_defense": 100,
+						"speed": 100
+					},
+					"bst": 600
+				},
+				{
+					"id": 230,
+					"name": "Kingdra",
+					"types": ["Water", "Dragon"],
+					"abilities": ["Swift Swim", "Sniper", "Damp"],
+					"base_stats": {
+						"hp": 75,
+						"attack": 95,
+						"defense": 95,
+						"sp_attack": 95,
+						"sp_defense": 95,
+						"speed": 85
+					},
+					"bst": 540
+				},
+				{
+					"id": 448,
+					"name": "Lucario",
+					"types": ["Fighting", "Steel"],
+					"abilities": ["Steadfast", "Inner Focus", "Justified"],
+					"base_stats": {
+						"hp": 70,
+						"attack": 110,
+						"defense": 70,
+						"sp_attack": 115,
+						"sp_defense": 70,
+						"speed": 90
+					},
+					"bst": 525
+				},
+				{
+					"id": 473,
+					"name": "Mamoswine",
+					"types": ["Ice", "Ground"],
+					"abilities": ["Oblivious", "Snow Cloak", "Thick Fat"],
+					"base_stats": {
+						"hp": 110,
+						"attack": 130,
+						"defense": 80,
+						"sp_attack": 70,
+						"sp_defense": 60,
+						"speed": 80
+					},
+					"bst": 530
+				},
+				{
+					"id": 376,
+					"name": "Metagross",
+					"types": ["Steel", "Psychic"],
+					"abilities": ["Clear Body", "Light Metal"],
+					"base_stats": {
+						"hp": 80,
+						"attack": 135,
+						"defense": 130,
+						"sp_attack": 95,
+						"sp_defense": 90,
+						"speed": 70
+					},
+					"bst": 600
+				},
+				{
+					"id": 620,
+					"name": "Mienshao",
+					"types": ["Fighting"],
+					"abilities": ["Inner Focus", "Regenerator", "Reckless"],
+					"base_stats": {
+						"hp": 65,
+						"attack": 125,
+						"defense": 60,
+						"sp_attack": 95,
+						"sp_defense": 60,
+						"speed": 105
+					},
+					"bst": 510
+				},
+				{
+					"id": 279,
+					"name": "Pelipper",
+					"types": ["Water", "Flying"],
+					"abilities": ["Keen Eye", "Drizzle", "Rain Dish"],
+					"base_stats": {
+						"hp": 60,
+						"attack": 50,
+						"defense": 100,
+						"sp_attack": 95,
+						"sp_defense": 70,
+						"speed": 65
+					},
+					"bst": 440
+				},
+				{
+					"id": 579,
+					"name": "Reuniclus",
+					"types": ["Psychic"],
+					"abilities": ["Overcoat", "Magic Guard", "Regenerator"],
+					"base_stats": {
+						"hp": 110,
+						"attack": 65,
+						"defense": 75,
+						"sp_attack": 125,
+						"sp_defense": 85,
+						"speed": 30
+					},
+					"bst": 490
+				},
+				{
+					"id": 479,
+					"name": "Rotom-Wash",
+					"types": ["Electric", "Water"],
+					"abilities": ["Levitate"],
+					"base_stats": {
+						"hp": 50,
+						"attack": 65,
+						"defense": 107,
+						"sp_attack": 105,
+						"sp_defense": 107,
+						"speed": 86
+					},
+					"bst": 520
+				},
+				{
+					"id": 302,
+					"name": "Sableye",
+					"types": ["Dark", "Ghost"],
+					"abilities": ["Keen Eye", "Stall", "Prankster"],
+					"base_stats": {
+						"hp": 50,
+						"attack": 75,
+						"defense": 75,
+						"sp_attack": 65,
+						"sp_defense": 65,
+						"speed": 50
+					},
+					"bst": 380
+				},
+				{
+					"id": 373,
+					"name": "Salamence",
+					"types": ["Dragon", "Flying"],
+					"abilities": ["Intimidate", "Moxie"],
+					"base_stats": {
+						"hp": 95,
+						"attack": 135,
+						"defense": 80,
+						"sp_attack": 110,
+						"sp_defense": 80,
+						"speed": 100
+					},
+					"bst": 600
+				},
+				{
+					"id": 212,
+					"name": "Scizor",
+					"types": ["Bug", "Steel"],
+					"abilities": ["Swarm", "Technician", "Light Metal"],
+					"base_stats": {
+						"hp": 70,
+						"attack": 130,
+						"defense": 100,
+						"sp_attack": 55,
+						"sp_defense": 80,
+						"speed": 65
+					},
+					"bst": 500
+				},
+				{
+					"id": 497,
+					"name": "Serperior",
+					"types": ["Grass"],
+					"abilities": ["Overgrow", "Contrary"],
+					"base_stats": {
+						"hp": 75,
+						"attack": 75,
+						"defense": 95,
+						"sp_attack": 75,
+						"sp_defense": 95,
+						"speed": 113
+					},
+					"bst": 528
+				},
+				{
+					"id": 227,
+					"name": "Skarmory",
+					"types": ["Steel", "Flying"],
+					"abilities": ["Keen Eye", "Sturdy", "Weak Armor"],
+					"base_stats": {
+						"hp": 65,
+						"attack": 80,
+						"defense": 140,
+						"sp_attack": 40,
+						"sp_defense": 70,
+						"speed": 70
+					},
+					"bst": 465
+				},
+				{
+					"id": 80,
+					"name": "Slowbro",
+					"types": ["Water", "Psychic"],
+					"abilities": ["Oblivious", "Own Tempo", "Regenerator"],
+					"base_stats": {
+						"hp": 95,
+						"attack": 75,
+						"defense": 110,
+						"sp_attack": 100,
+						"sp_defense": 80,
+						"speed": 30
+					},
+					"bst": 490
+				},
+				{
+					"id": 398,
+					"name": "Staraptor",
+					"types": ["Normal", "Flying"],
+					"abilities": ["Intimidate", "Reckless"],
+					"base_stats": {
+						"hp": 85,
+						"attack": 120,
+						"defense": 70,
+						"sp_attack": 50,
+						"sp_defense": 60,
+						"speed": 100
+					},
+					"bst": 485
+				},
+				{
+					"id": 121,
+					"name": "Starmie",
+					"types": ["Water", "Psychic"],
+					"abilities": ["Illuminate", "Natural Cure", "Analytic"],
+					"base_stats": {
+						"hp": 60,
+						"attack": 75,
+						"defense": 85,
+						"sp_attack": 100,
+						"sp_defense": 85,
+						"speed": 115
+					},
+					"bst": 520
+				},
+				{
+					"id": 245,
+					"name": "Suicune",
+					"types": ["Water"],
+					"abilities": ["Pressure", "Inner Focus"],
+					"base_stats": {
+						"hp": 100,
+						"attack": 75,
+						"defense": 115,
+						"sp_attack": 90,
+						"sp_defense": 115,
+						"speed": 85
+					},
+					"bst": 580
+				},
+				{
+					"id": 639,
+					"name": "Terrakion",
+					"types": ["Rock", "Fighting"],
+					"abilities": ["Justified"],
+					"base_stats": {
+						"hp": 91,
+						"attack": 129,
+						"defense": 90,
+						"sp_attack": 72,
+						"sp_defense": 90,
+						"speed": 108
+					},
+					"bst": 580
+				},
+				{
+					"id": 468,
+					"name": "Togekiss",
+					"types": ["Normal", "Flying"],
+					"abilities": ["Hustle", "Serene Grace", "Super Luck"],
+					"base_stats": {
+						"hp": 85,
+						"attack": 50,
+						"defense": 95,
+						"sp_attack": 120,
+						"sp_defense": 115,
+						"speed": 80
+					},
+					"bst": 545
+				},
+				{
+					"id": 248,
+					"name": "Tyranitar",
+					"types": ["Rock", "Dark"],
+					"abilities": ["Sand Stream", "Unnerve"],
+					"base_stats": {
+						"hp": 100,
+						"attack": 134,
+						"defense": 110,
+						"sp_attack": 95,
+						"sp_defense": 100,
+						"speed": 61
+					},
+					"bst": 600
+				},
+				{
+					"id": 637,
+					"name": "Volcarona",
+					"types": ["Bug", "Fire"],
+					"abilities": ["Flame Body", "Swarm"],
+					"base_stats": {
+						"hp": 85,
+						"attack": 60,
+						"defense": 65,
+						"sp_attack": 135,
+						"sp_defense": 105,
+						"speed": 100
+					},
+					"bst": 550
+				},
+				{
+					"id": 461,
+					"name": "Weavile",
+					"types": ["Dark", "Ice"],
+					"abilities": ["Pressure", "Pickpocket"],
+					"base_stats": {
+						"hp": 70,
+						"attack": 120,
+						"defense": 65,
+						"sp_attack": 45,
+						"sp_defense": 85,
+						"speed": 125
+					},
+					"bst": 510
+				},
+				{
+					"id": 110,
+					"name": "Weezing",
+					"types": ["Poison"],
+					"abilities": ["Levitate", "Neutralizing Gas", "Stench"],
+					"base_stats": {
+						"hp": 65,
+						"attack": 90,
+						"defense": 120,
+						"sp_attack": 85,
+						"sp_defense": 70,
+						"speed": 60
+					},
+					"bst": 490
+				},
+				{
+					"id": 145,
+					"name": "Zapdos",
+					"types": ["Electric", "Flying"],
+					"abilities": ["Pressure", "Static"],
+					"base_stats": {
+						"hp": 90,
+						"attack": 90,
+						"defense": 85,
+						"sp_attack": 125,
+						"sp_defense": 90,
+						"speed": 100
+					},
+					"bst": 580
+				}
+			]
+		}
