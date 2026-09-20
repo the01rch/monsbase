@@ -19,7 +19,7 @@ for move in moves_data["moves"]:
 with open("mons_UT.json", "r", encoding="utf-8") as f:
     ut_data = json.load(f)
 
-pokemon_list = ut_data["UT"]["pokemon"]
+pokemon_list = ut_data["pokemon"]
 
 # ---------- Helper: extract moves from wiki page ----------
 def extract_moves_from_page(html):

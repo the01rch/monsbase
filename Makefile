@@ -1,21 +1,26 @@
-CC       = gcc
-CFLAGS   = -Wall -Wextra -std=c99
-LDFLAGS  = -lcjson
-TARGET   = parser
+CC		= gcc
+CFLAGS	= -Wall -Wextra -std=c99
+LDFLAGS	= -lcjson
+NAME	= parser
 
 # List your source files
-SRC      = src/main.c
-OBJ      = $(SRC:.c=.o)
+SRC		= src/main.c
+OBJ		= $(SRC:.c=.o)
 
-$(TARGET): $(OBJ)
+all: $(NAME)
+
+$(NAME): $(OBJ)
 	$(CC) $(CFLAGS) -o $@ $^ $(LDFLAGS)
 
 %.o: %.c
 	$(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-	rm -f $(OBJ) $(TARGET)
+	rm -f $(NAME)
 
-re: clean all
+fclean: clean
+	rm -f $(OBJ)
 
-.PHONY: all clean re
+re: fclean all
+
+.PHONY: all clean fclean re
