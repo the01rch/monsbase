@@ -1,0 +1,66 @@
+Garchomp @ Focus Sash  
+Ability: Rough Skin  
+Level: 50  
+Tera Type: Dragon  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Stealth Rock  
+- Draco Meteor  
+- Earthquake  
+- Flamethrower  
+
+Scizor @ Choice Band  
+Ability: Technician  
+Level: 50  
+Tera Type: Bug  
+EVs: 236 HP / 252 Atk / 4 Def / 4 SpD / 12 Spe  
+Adamant Nature  
+- U-turn  
+- Bullet Punch  
+- Close Combat  
+- Pursuit  
+
+Dragonite @ Dragon Gem  
+Ability: Multiscale  
+Level: 50  
+Tera Type: Dragon  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Dragon Claw  
+- Fire Punch  
+- Extreme Speed  
+
+Volcarona @ Leftovers  
+Ability: Flame Body  
+Tera Type: Bug  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Fiery Dance  
+- Bug Buzz  
+- Hidden Power [Ice]  
+
+Starmie @ Life Orb  
+Ability: Analytic  
+Level: 50  
+Tera Type: Water  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Rapid Spin  
+- Surf  
+- Ice Beam  
+- Thunderbolt  
+
+Breloom @ Focus Sash  
+Ability: Technician  
+Level: 50  
+Tera Type: Grass  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Spore  
+- Rock Tomb  
+- Mach Punch  
+- Bullet Seed  
+

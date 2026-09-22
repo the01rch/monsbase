@@ -1,177 +1,179 @@
-[
-    {
-        "id": 1,
-        "name": "Hardy",
-        "slug": "hardy",
-        "increase": null,
-        "decrease": null
-    },
-    {
-        "id": 2,
-        "name": "Lonely",
-        "slug": "lonely",
-        "increase": "atk",
-        "decrease": "def"
-    },
-    {
-        "id": 3,
-        "name": "Brave",
-        "slug": "brave",
-        "increase": "atk",
-        "decrease": "spe"
-    },
-    {
-        "id": 4,
-        "name": "Adamant",
-        "slug": "adamant",
-        "increase": "atk",
-        "decrease": "spa"
-    },
-    {
-        "id": 5,
-        "name": "Naughty",
-        "slug": "naughty",
-        "increase": "atk",
-        "decrease": "spd"
-    },
-    {
-        "id": 6,
-        "name": "Bold",
-        "slug": "bold",
-        "increase": "def",
-        "decrease": "atk"
-    },
-    {
-        "id": 7,
-        "name": "Docile",
-        "slug": "docile",
-        "increase": null,
-        "decrease": null
-    },
-    {
-        "id": 8,
-        "name": "Relaxed",
-        "slug": "relaxed",
-        "increase": "def",
-        "decrease": "spe"
-    },
-    {
-        "id": 9,
-        "name": "Impish",
-        "slug": "impish",
-        "increase": "def",
-        "decrease": "spa"
-    },
-    {
-        "id": 10,
-        "name": "Lax",
-        "slug": "lax",
-        "increase": "def",
-        "decrease": "spd"
-    },
-    {
-        "id": 11,
-        "name": "Timid",
-        "slug": "timid",
-        "increase": "spe",
-        "decrease": "atk"
-    },
-    {
-        "id": 12,
-        "name": "Hasty",
-        "slug": "hasty",
-        "increase": "spe",
-        "decrease": "def"
-    },
-    {
-        "id": 13,
-        "name": "Serious",
-        "slug": "serious",
-        "increase": null,
-        "decrease": null
-    },
-    {
-        "id": 14,
-        "name": "Jolly",
-        "slug": "jolly",
-        "increase": "spe",
-        "decrease": "spa"
-    },
-    {
-        "id": 15,
-        "name": "Naive",
-        "slug": "naive",
-        "increase": "spe",
-        "decrease": "spd"
-    },
-    {
-        "id": 16,
-        "name": "Modest",
-        "slug": "modest",
-        "increase": "spa",
-        "decrease": "atk"
-    },
-    {
-        "id": 17,
-        "name": "Mild",
-        "slug": "mild",
-        "increase": "spa",
-        "decrease": "def"
-    },
-    {
-        "id": 18,
-        "name": "Quiet",
-        "slug": "quiet",
-        "increase": "spa",
-        "decrease": "spe"
-    },
-    {
-        "id": 19,
-        "name": "Bashful",
-        "slug": "bashful",
-        "increase": null,
-        "decrease": null
-    },
-    {
-        "id": 20,
-        "name": "Rash",
-        "slug": "rash",
-        "increase": "spa",
-        "decrease": "spd"
-    },
-    {
-        "id": 21,
-        "name": "Calm",
-        "slug": "calm",
-        "increase": "spd",
-        "decrease": "atk"
-    },
-    {
-        "id": 22,
-        "name": "Gentle",
-        "slug": "gentle",
-        "increase": "spd",
-        "decrease": "def"
-    },
-    {
-        "id": 23,
-        "name": "Sassy",
-        "slug": "sassy",
-        "increase": "spd",
-        "decrease": "spe"
-    },
-    {
-        "id": 24,
-        "name": "Careful",
-        "slug": "careful",
-        "increase": "spd",
-        "decrease": "spa"
-    },
-    {
-        "id": 25,
-        "name": "Quirky",
-        "slug": "quirky",
-        "increase": null,
-        "decrease": null
-    }
-]
+{
+	"natures": [
+		{
+			"id": 1,
+			"name": "Hardy",
+			"slug": "hardy",
+			"increase": null,
+			"decrease": null
+		},
+		{
+			"id": 2,
+			"name": "Lonely",
+			"slug": "lonely",
+			"increase": "atk",
+			"decrease": "def"
+		},
+		{
+			"id": 3,
+			"name": "Brave",
+			"slug": "brave",
+			"increase": "atk",
+			"decrease": "spe"
+		},
+		{
+			"id": 4,
+			"name": "Adamant",
+			"slug": "adamant",
+			"increase": "atk",
+			"decrease": "spa"
+		},
+		{
+			"id": 5,
+			"name": "Naughty",
+			"slug": "naughty",
+			"increase": "atk",
+			"decrease": "spd"
+		},
+		{
+			"id": 6,
+			"name": "Bold",
+			"slug": "bold",
+			"increase": "def",
+			"decrease": "atk"
+		},
+		{
+			"id": 7,
+			"name": "Docile",
+			"slug": "docile",
+			"increase": null,
+			"decrease": null
+		},
+		{
+			"id": 8,
+			"name": "Relaxed",
+			"slug": "relaxed",
+			"increase": "def",
+			"decrease": "spe"
+		},
+		{
+			"id": 9,
+			"name": "Impish",
+			"slug": "impish",
+			"increase": "def",
+			"decrease": "spa"
+		},
+		{
+			"id": 10,
+			"name": "Lax",
+			"slug": "lax",
+			"increase": "def",
+			"decrease": "spd"
+		},
+		{
+			"id": 11,
+			"name": "Timid",
+			"slug": "timid",
+			"increase": "spe",
+			"decrease": "atk"
+		},
+		{
+			"id": 12,
+			"name": "Hasty",
+			"slug": "hasty",
+			"increase": "spe",
+			"decrease": "def"
+		},
+		{
+			"id": 13,
+			"name": "Serious",
+			"slug": "serious",
+			"increase": null,
+			"decrease": null
+		},
+		{
+			"id": 14,
+			"name": "Jolly",
+			"slug": "jolly",
+			"increase": "spe",
+			"decrease": "spa"
+		},
+		{
+			"id": 15,
+			"name": "Naive",
+			"slug": "naive",
+			"increase": "spe",
+			"decrease": "spd"
+		},
+		{
+			"id": 16,
+			"name": "Modest",
+			"slug": "modest",
+			"increase": "spa",
+			"decrease": "atk"
+		},
+		{
+			"id": 17,
+			"name": "Mild",
+			"slug": "mild",
+			"increase": "spa",
+			"decrease": "def"
+		},
+		{
+			"id": 18,
+			"name": "Quiet",
+			"slug": "quiet",
+			"increase": "spa",
+			"decrease": "spe"
+		},
+		{
+			"id": 19,
+			"name": "Bashful",
+			"slug": "bashful",
+			"increase": null,
+			"decrease": null
+		},
+		{
+			"id": 20,
+			"name": "Rash",
+			"slug": "rash",
+			"increase": "spa",
+			"decrease": "spd"
+		},
+		{
+			"id": 21,
+			"name": "Calm",
+			"slug": "calm",
+			"increase": "spd",
+			"decrease": "atk"
+		},
+		{
+			"id": 22,
+			"name": "Gentle",
+			"slug": "gentle",
+			"increase": "spd",
+			"decrease": "def"
+		},
+		{
+			"id": 23,
+			"name": "Sassy",
+			"slug": "sassy",
+			"increase": "spd",
+			"decrease": "spe"
+		},
+		{
+			"id": 24,
+			"name": "Careful",
+			"slug": "careful",
+			"increase": "spd",
+			"decrease": "spa"
+		},
+		{
+			"id": 25,
+			"name": "Quirky",
+			"slug": "quirky",
+			"increase": null,
+			"decrease": null
+		}
+	]
+}
